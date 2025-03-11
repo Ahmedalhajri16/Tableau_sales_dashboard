@@ -1,6 +1,7 @@
 # Sales Performance Dashboard
 
-![ezgif-6260c6761bc8a6](https://github.com/user-attachments/assets/266bf4f0-f162-41c4-bf5c-3da3168323c9)
+![ezgif-6049cd342b4fa2](https://github.com/user-attachments/assets/eda72544-54fe-4a06-8c7a-34347efe8f16)
+
 
 
 ## Introduction
