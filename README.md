@@ -35,6 +35,8 @@ The **Sales Dashboard** provides an **overview of key sales metrics and trends**
 
 - **Monthly sales trends** for both the current year and the previous year.
 - Highlights **months with highest and lowest sales** for easy recognition.
+  ![Screenshot 2025-03-10 205041](https://github.com/user-attachments/assets/04af5bf3-647b-40eb-93f0-67c357aae18f)
+
 - Provides a clear **visual comparison of year-over-year performance**.
 
 ### 🏆 Product Subcategory Comparison  
