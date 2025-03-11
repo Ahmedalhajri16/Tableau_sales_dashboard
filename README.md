@@ -50,6 +50,7 @@ The **Sales Dashboard** provides an **overview of key sales metrics and trends**
 
 ### 📆 Weekly Sales & Profit Trends  
 
+![Screenshot 2025-03-11 005803](https://github.com/user-attachments/assets/2b85e540-574d-48d8-9513-bd31684b2be9)
 
 - **Weekly sales and profit data** for the current year.
 - Displays **average weekly values**.
